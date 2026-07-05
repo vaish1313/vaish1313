@@ -5,7 +5,7 @@ Computer Engineering Student • Full Stack Developer • Java Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Applications;Learning+Spring+Boot+%26+System+Design;200%2B+DSA+Problems+Solved;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Applications;Learning+Spring+Boot+%26+System+Design;150%2B+DSA+Problems+Solved;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
@@ -28,11 +28,10 @@ Computer Engineering Student • Full Stack Developer • Java Enthusiast
 
 </p>
 
----
 
 # 👩‍💻 About Me
 
-🎓 Third-Year B.Tech Computer Engineering Student at **K.K. Wagh Institute of Engineering Education & Research**
+🎓 Final-Year B.Tech Computer Engineering Student at **K.K. Wagh Institute of Engineering Education & Research**
 
 💻 Passionate about **Full Stack Development**
 
@@ -44,7 +43,6 @@ Computer Engineering Student • Full Stack Developer • Java Enthusiast
 
 📍 Nashik, Maharashtra, India
 
----
 
 # 🛠 Tech Stack
 
@@ -72,21 +70,6 @@ Computer Engineering Student • Full Stack Developer • Java Enthusiast
 
 </div>
 
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🌐 **Vedix Global** | Production-grade website developed for an international client using Next.js & Tailwind CSS. |
-| 🏡 **Wanderlust** | MERN-based Airbnb-inspired property listing and booking platform. |
-| 🚌 **BusSeva** | Real-time college bus tracking system with live location updates. |
-| 📈 **Zerodha Clone** | Stock trading platform clone with authentication and portfolio features. |
-| 🧪 **SmartPath** *(In Progress)* | Smart pathology laboratory management system. |
-| ⚙️ **Enterprise Data Integration Platform** | Spring Boot backend project focused on secure enterprise data synchronization. |
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -103,7 +86,6 @@ Computer Engineering Student • Full Stack Developer • Java Enthusiast
 
 </div>
 
----
 
 # 🌱 Currently Learning
 
@@ -114,8 +96,6 @@ Computer Engineering Student • Full Stack Developer • Java Enthusiast
 - Advanced Data Structures & Algorithms
 - Cloud Computing
 
----
-
 # 🏆 Achievements
 
 🏅 Secretary — Debuggers' Club
@@ -124,11 +104,10 @@ Computer Engineering Student • Full Stack Developer • Java Enthusiast
 
 💼 IT Business Intern — Fifty Is Nifty (Veav AI Project)
 
-💻 Solved **200+ DSA problems**
+💻 Solved **150+ DSA problems**
 
 🚀 Built multiple full-stack applications from scratch
 
----
 
 # 🐍 Contribution Snake
 
@@ -138,7 +117,6 @@ Computer Engineering Student • Full Stack Developer • Java Enthusiast
 
 </div>
 
----
 
 # 📫 Connect With Me
 
@@ -158,7 +136,6 @@ Computer Engineering Student • Full Stack Developer • Java Enthusiast
 
 </div>
 
----
 
 <div align="center">
 
