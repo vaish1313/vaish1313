@@ -127,8 +127,6 @@ Graph Neural Network-based fraud detection with real-time streaming pipelines an
 <img src="https://raw.githubusercontent.com/vaish1313/vaish1313/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ℹ️ The snake animation above needs a one-time GitHub Actions setup — see the note at the bottom of this file.
-
 <br/>
 
 <div align="center">
