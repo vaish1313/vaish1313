@@ -31,22 +31,12 @@ Computer Engineering Student • Full Stack Developer • Java Enthusiast
 
 # 👩‍💻 About Me
 
-🎓 Final-Year B.Tech Computer Engineering Student at **K.K. Wagh Institute of Engineering Education & Research**
-
-💻 Passionate about **Full Stack Development**
-
-🌱 Currently learning **Spring Boot**, **System Design**, and **Advanced DSA**
-
-🚀 Interested in **Backend Engineering**, **Cloud Computing**, and **AI-powered Applications**
-
-👩‍💼 Secretary — **Debuggers' Club**
-
-📍 Nashik, Maharashtra, India
+I'm **Vaishnavi Chaudhari**, a final-year Computer Engineering student at **K.K. Wagh Institute of Engineering Education & Research** with a passion for building scalable, user-centric web applications. I enjoy transforming ideas into real-world products using technologies like **Java, Spring Boot, React, Node.js, and MongoDB**. Currently, I'm deepening my knowledge of **backend development, system design, and data structures & algorithms** while continuously exploring cloud technologies and AI-powered applications. Beyond academics, I serve as the **Secretary of the Debuggers' Club**, where I organize technical events and collaborate with peers to foster a strong developer community. I'm always excited to learn new technologies, solve challenging problems, and contribute to impactful software projects.
 
 
 # 🛠 Tech Stack
 
-<div align="center">
+<div>
 
 ### Languages
 
@@ -89,24 +79,25 @@ Computer Engineering Student • Full Stack Developer • Java Enthusiast
 
 # 🌱 Currently Learning
 
-- Spring Boot
-- REST APIs
-- Microservices
-- System Design
-- Advanced Data Structures & Algorithms
-- Cloud Computing
+<div align="center">
 
-# 🏆 Achievements
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-181717?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-0EA5E9?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-🏅 Secretary — Debuggers' Club
+</div>
 
-💼 Software Development Intern — Vedix Global
+# ✨ Highlights
 
-💼 IT Business Intern — Fifty Is Nifty (Veav AI Project)
-
-💻 Solved **150+ DSA problems**
-
-🚀 Built multiple full-stack applications from scratch
+- 🥇 **1st Place** — MIT-ADT AI Grand Challenge 2026
+- 🏅 Finalist — Innovera National Level Hackathon
+- 💼 AI Business Operations Intern — GBL International FZE (Remote)
+- 💼 Software Development Intern — Vedix Global
+- 💼 IT Business Intern — Fifty Is Nifty (Veav AI)
+- 👩‍💼 Secretary — Debuggers' Club, KKWIEER
+- ☁️ AWS Academy Graduate — Cloud Foundations
 
 
 # 🐍 Contribution Snake
@@ -118,7 +109,7 @@ Computer Engineering Student • Full Stack Developer • Java Enthusiast
 </div>
 
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
 <div align="center">
 
@@ -133,12 +124,5 @@ Computer Engineering Student • Full Stack Developer • Java Enthusiast
 <a href="https://github.com/vaish1313">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
-</div>
-
-
-<div align="center">
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
 
 </div>
